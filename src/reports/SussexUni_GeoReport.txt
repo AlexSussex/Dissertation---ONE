@@ -1,0 +1,82 @@
+Message stats for scenario SussexUni
+sim_time: 6000.0000
+created: 0
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: NaN
+latency_avg: NaN
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+
+GeoMessage stats for scenario SussexUni
+sim_time: 6000.0000
+created: 0
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: NaN
+latency_avg: NaN
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+----------------------------
+----------------------------
+
+Total number of recipients: 0
+
+----------------------------
+----------------------------
+Delivery rate per Cast:
+
+
+Upper 10% Casts:  ()  NaN %  from 0 GeoMessages.
+Lower 10% Casts:  ()  NaN %  from 0 GeoMessages.
+
+----------------------------
+----------------------------
+Delivery rate per Group of Sender:
+
+
+----------------------------
+----------------------------
+Result Quantity Report:
+
+Total number of created Geomessages: 0
+
+Delivery percentage : Quantity
+
+----------------------------
+----------------------------
+Upper and Lower 10% Delivery Ratio Report:
+
+Lower 10% : NaN
+Upper 10% : NaN
+
+----------------------------
+----------------------------
+Upper and Lower 10% Delivery Latency Report:
+
+Upper 10% : NaN
+Lower 10% : NaN
